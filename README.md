@@ -49,4 +49,5 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 ## Licence
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-The issue was developed based on the work [Kamran Ahmed] (https://github.com/kamranahmedse)
+
+The issue was developed based on the work [![License: aa0](https://github.com/kamranahmedse)
